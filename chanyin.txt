@@ -1,5 +1,5 @@
 点播：
-77资源,https://www.77diany.com/api.php/provide/vod/at/xml,不解析
+
 麻豆资源,https://www.caiji04.com/home/cjapi/cfc7/ mc10/vod/xml,不解析
 诺讯资源,http://caiji.nxflv.com/api.php/provide/vod/at/xml,不解析
 89资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,不解析
