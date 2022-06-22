@@ -17,7 +17,7 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml,不解析
 
 结束
 解析：
-1解析4K,https://jx.4kdv.com/?url=
+1解析4K,https://jx.youyitv.com/?url=
 2解析PX,https://vip.parwix.com:4433/player/?url=
 3解析PI,https://json.pangujiexi.com:12345/json.php?url=
 4解析VIP,http://api.vip123kan.vip/?url=
