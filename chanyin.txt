@@ -13,7 +13,7 @@ MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml,不解析
 卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/at/xml,不解析
 光速资源,https://api.guangsuapi.com/api.php/provide/vod/at/xml,不解析
 快播资源,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/,不解析
-芒果资源,https://mgzyz1.com/api.php/provide/vod/at/xml/,不解析
+麻豆资源,https://91md.me/index.php/vod/at/xml/,不解析
 
 结束
 解析：
